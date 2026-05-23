@@ -2,7 +2,7 @@
 
 > Transformar desorganização em controlo.
 
-[Home](/) | [Sobre](/about/)
+[Home](/) | [Sobre](/about)
 
 ---
 
