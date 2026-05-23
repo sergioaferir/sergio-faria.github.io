@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 /* remover footer completamente */
-footer {
+footer,
+.site-footer {
   display: none !important;
 }
