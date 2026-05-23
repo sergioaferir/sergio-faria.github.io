@@ -2,9 +2,11 @@
 
 Sistemas, organização e cibersegurança no mundo real.
 
-Transformar desorganização em controlo.
+> Transformar desorganização em controlo.
 
 ---
+
+[Home](/) | [Sobre](/about/)
 
 A maioria das empresas acredita que tem um problema de tecnologia.
 
@@ -52,7 +54,14 @@ O meu foco é simples:
 
 ## ✍️ Artigos
 
-👉 Consulta os artigos mais recentes abaixo.
+
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+<small>{{ post.date | date: "%d/%m/%Y" }}</small>
+
+---
+{% endfor %}
+``
 
 ---
 
