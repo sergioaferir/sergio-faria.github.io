@@ -8,6 +8,8 @@ author: "Sérgio Faria"
 
 ---
 
+<small>{{ page.date | date: "%d %B %Y" }} · {{ page.author }}</small>
+
 A maioria das empresas encara o ERP como uma solução.
 
 Na prática, é o contrário.
