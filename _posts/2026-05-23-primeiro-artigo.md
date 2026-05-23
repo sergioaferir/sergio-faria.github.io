@@ -3,6 +3,10 @@ title: "Porque a maioria das transformações digitais falha"
 date: 2026-05-23
 ---
 
+[← Voltar](/)
+
+---
+
 A maioria das empresas acredita que o problema está na tecnologia.
 
 Na realidade, está na organização.
