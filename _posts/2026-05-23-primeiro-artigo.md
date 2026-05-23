@@ -1,6 +1,7 @@
 ---
 title: "Porque a maioria das transformações digitais falha"
 date: 2026-05-23
+author: "Sérgio Faria"
 ---
 
 [← Voltar](/)
