@@ -1,6 +1,7 @@
 ---
 title: "ERP não resolve problemas — expõe-os"
 date: 2026-05-24
+author: "Sérgio Faria"
 ---
 
 [← Voltar](/)
