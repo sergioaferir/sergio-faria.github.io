@@ -19,24 +19,3 @@ Sistemas, organização e cibersegurança no mundo real.
 
 ---
 {% endfor %}
-``
-
----
-
-## 🎯 Objetivo
-
-Partilhar ideias práticas sobre como fazer a tecnologia funcionar no mundo real.
-
-Sem teoria desnecessária.
-
-Sem buzzwords.
-
-Só o que funciona.
-
----
-
-## 📢 Ligações
-
-👉 [LinkedIn](https://www.linkedin.com)  
-👉 [GitHub](https://github.com)
-
