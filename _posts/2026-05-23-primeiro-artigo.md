@@ -15,4 +15,6 @@ Na realidade, está na organização.
 
 Processos mal definidos, falta de controlo e responsabilidade difusa tornam qualquer sistema ineficiente.
 
-A tecnologia não resolve. Expõe.
+A tecnologia não resolve. 
+
+Expõe.
