@@ -45,5 +45,14 @@ Faço isso através de:
 - estruturação de sistemas de negócio  
 - organização de operações  
 - definição de processos claros  
-- redução de risco (incluindo cibersegurança e NIS2)  
+- redução de risco (incluindo cibersegurança e NIS2)
+
+## Formação
+
+A minha base académica inclui:
+
+- Licenciatura em Engenharia Informática  
+- Pós-graduação em Gestão e Administração de Redes Informáticas  
+
+No entanto, a maior parte do valor vem da experiência prática — a trabalhar diretamente com sistemas e operações no mundo real, onde a teoria rapidamente deixa de ser suficiente.
 
