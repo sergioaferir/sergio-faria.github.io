@@ -47,6 +47,8 @@ Faço isso através de:
 - definição de processos claros  
 - redução de risco (incluindo cibersegurança e NIS2)
 
+---
+
 ## Formação
 
 A minha base académica inclui:
