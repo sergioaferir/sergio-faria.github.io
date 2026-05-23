@@ -1,3 +1,6 @@
+@import "{{ site.theme }}";
+
+/* Remove footer do GitHub Pages */
 .site-footer {
   display: none !important;
 }
