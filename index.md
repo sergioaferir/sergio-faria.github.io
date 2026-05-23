@@ -2,6 +2,8 @@
 
 Sistemas, organização e cibersegurança no mundo real.
 
+Transformar desorganização em controlo.
+
 ---
 
 A maioria das empresas acredita que tem um problema de tecnologia.
