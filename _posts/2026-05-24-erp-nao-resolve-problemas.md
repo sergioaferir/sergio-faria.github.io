@@ -3,6 +3,10 @@ title: "ERP não resolve problemas — expõe-os"
 date: 2026-05-24
 ---
 
+[← Voltar](/)
+
+---
+
 A maioria das empresas encara o ERP como uma solução.
 
 Na prática, é o contrário.
