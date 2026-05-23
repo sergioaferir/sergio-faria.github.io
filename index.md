@@ -1,54 +1,12 @@
 # The Digital Operator
 
-Sistemas, organização e cibersegurança no mundo real.
-
 > Transformar desorganização em controlo.
-
----
 
 [Home](/) | [Sobre](/about/)
 
-A maioria das empresas acredita que tem um problema de tecnologia.
-
-Na realidade, tem um problema de organização.
-
-Processos pouco claros, falta de controlo e dependência de pessoas tornam qualquer sistema ineficiente.
-
-ERP, automação, dashboards ou IA não resolvem isso.
-
-Expõem.
-
 ---
 
-## 📌 Sobre
-
-Trabalho diariamente com sistemas, operações e cibersegurança em contextos reais:
-
-- operações industriais  
-- redes de lojas  
-- sistemas críticos  
-
-Onde estes problemas têm impacto direto no negócio.
-
-O meu foco é simples:
-
-👉 transformar desorganização em controlo
-
----
-
-## 🧩 Temas que abordo
-
-- **Sistemas de Negócio (ERP)**  
-  Processos, integração e funcionamento real  
-
-- **Organização & Eficiência Operacional**  
-  Como estruturar equipas e operações  
-
-- **Dados & Automação**  
-  O que faz sentido automatizar (e o que não faz)  
-
-- **Cibersegurança (CISO / NIS2)**  
-  Risco, controlo e responsabilidade  
+Sistemas, organização e cibersegurança no mundo real.
 
 ---
 
