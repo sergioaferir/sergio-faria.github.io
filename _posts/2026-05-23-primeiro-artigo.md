@@ -7,7 +7,6 @@ author: "Sérgio Faria"
 [← Voltar](/)
 
 ---
-<small>{{ page.date | date: "%d %B %Y" }} · {{ page.author }}</small>
 
 A maioria das empresas acredita que o problema está na tecnologia.
 
