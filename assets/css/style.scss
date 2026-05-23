@@ -17,6 +17,8 @@ body {
 .main-content {
   background-color: #ffffff;
   border-radius: 6px;
+  max-width: 800px;
+  margin: auto;
   padding: 20px;
 }
 
@@ -33,6 +35,7 @@ a {
 a:hover {
   color: #0f2027;
 }
+
 
 /* remover footer completamente */
 footer,
